@@ -12,13 +12,13 @@
 <br>
 
 <p align="center">
-<img height="50" width="50" src="https://github.com/dncastedo/dncastedo/blob/main/icone-python.svg" alt="python">
-<img height="50" width="50" src="https://github.com/dncastedo/dncastedo/blob/main/icone-javascript.svg" alt="javascript">
-<img height="50" width="50" src="https://github.com/dncastedo/dncastedo/blob/main/icone-css3.svg" alt="css3">
-<img height="50" width="50" src="https://github.com/dncastedo/dncastedo/blob/main/icone-html5.svg" alt="html">
-<img height="50" width="50" src="https://github.com/dncastedo/dncastedo/blob/main/icone-vscode.svg" alt="vscode">
-<img height="50" width="50" src="https://github.com/dncastedo/dncastedo/blob/main/icone-git.svg" alt="git">
-<img height="50" width="50" src="https://github.com/dncastedo/dncastedo/blob/main/icone-github.svg" alt="github">
+<img height="50" width="50" src="https://github.com/dncastedo/dncastedo/blob/main/images/icone-python.svg" alt="python">
+<img height="50" width="50" src="https://github.com/dncastedo/dncastedo/blob/main/images/icone-javascript.svg" alt="javascript">
+<img height="50" width="50" src="https://github.com/dncastedo/dncastedo/blob/main/images/icone-css3.svg" alt="css3">
+<img height="50" width="50" src="https://github.com/dncastedo/dncastedo/blob/main/images/icone-html5.svg" alt="html">
+<img height="50" width="50" src="https://github.com/dncastedo/dncastedo/blob/main/images/icone-vscode.svg" alt="vscode">
+<img height="50" width="50" src="https://github.com/dncastedo/dncastedo/blob/main/images/icone-git.svg" alt="git">
+<img height="50" width="50" src="https://github.com/dncastedo/dncastedo/blob/main/images/icone-github.svg" alt="github">
 </p>
       
 <h2> 📊 Github Stats </h2>
@@ -36,9 +36,9 @@
 <br>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/dncastedo/" target="_blank"><img src="https://github.com/dncastedo/dncastedo/blob/main/logo-linkedin.svg" alt="linkedin"></a>
-<a href = "mailto:dncastedo@gmail.com" target="_blank"><img src="https://github.com/dncastedo/dncastedo/blob/main/logo-gmail.svg" alt="gmail"></a>
-<a href = "https://t.me/dncastedo" target="_blank"><img src="https://github.com/dncastedo/dncastedo/blob/main/logo-telegram.svg" alt="telegram"></a>
+<a href="https://www.linkedin.com/in/dncastedo/" target="_blank"><img src="https://github.com/dncastedo/dncastedo/blob/main/images/logo-linkedin.svg" alt="linkedin"></a>
+<a href = "mailto:dncastedo@gmail.com" target="_blank"><img src="https://github.com/dncastedo/dncastedo/blob/main/images/logo-gmail.svg" alt="gmail"></a>
+<a href = "https://t.me/dncastedo" target="_blank"><img src="https://github.com/dncastedo/dncastedo/blob/main/images/logo-telegram.svg" alt="telegram"></a>
 </p>
 <hr>
 
