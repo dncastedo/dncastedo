@@ -2,7 +2,7 @@
 <p align="center">
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Always%20learning%20new%20technologies&center=true&width=500&height=50"></a>
 </p>
-<h3 align="center"> Graduanda em Análise e Desenvolvimento de Sistemas. Atualmente aprendendo sobre desenvolvimento Front End e trabalhando nos meus primeiros projetos. Entusiasta de Ciência de Dados e ML, pretendo, futuramente, aprofundar meus conhecimentos nesta área e conectar diferentes tecnologias para obter as melhores soluções. Em busca do meu primeiro estágio em tech.💓
+<h3 align="center"> Graduanda em Análise e Desenvolvimento de Sistemas. Atualmente aprendendo sobre desenvolvimento Front End e trabalhando nos meus primeiros projetos. Pretendo aprofundar meus conhecimentos nesta área e conectar diferentes tecnologias para obter as melhores soluções. Em busca do meu primeiro estágio em tech.💓
 </h3>
 
 <br>
