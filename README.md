@@ -25,11 +25,12 @@ Graduanda em Análise e Desenvolvimento de Sistemas. Atualmente aprendendo sobre
 <h2> 📊 Github Stats </h2>
 
 <br>
-
-<p align="center">
-<a href="https://github.com/dncastedo" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dncastedo&theme=blueberry&show_icons=true">	</a>
+<p align="center"> 
+<a href="https://github.com/dncastedo">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dncastedo&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dncastedo&layout=compact&langs_count=7&theme=jolly"/>
 </p>
-
+    
 <br>
 
 <h2> 🙋🏽 Conecte-se comigo </h2>
@@ -51,4 +52,4 @@ Graduanda em Análise e Desenvolvimento de Sistemas. Atualmente aprendendo sobre
 <img src="https://komarev.com/ghpvc/?username=dncastedo&label=Profile%20views&color=0e75b6&style=plastic" alt="dncastedo"/>
 </p>  
 <p>Credit: <a href="https://github.com/dncastedo">dncastedo</a></p>
-Last Edited On: 13/08/2021
+Last Edited On: 11/09/2021
