@@ -53,3 +53,5 @@ Graduanda em Análise e Desenvolvimento de Sistemas. Atualmente aprendendo sobre
 </p>  
 <p>Credit: <a href="https://github.com/dncastedo">dncastedo</a></p>
 Last Edited On: 11/09/2021
+
+![snake gif](https://github.com/dncastedo/dncastedo/blob/output/github-contribution-grid-snake.svg)
