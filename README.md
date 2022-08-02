@@ -1,6 +1,6 @@
 
 <h1 align="center">
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=print%20(Hello%20World!%20I'm%20Diane&center=true&width=500&height=50"></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=print(Hello%20World!%20I'm%20Diane!)&center=true&width=500&height=50"></a>
 </h1>
 <h3 align="center"> 
 Graduanda em Análise e Desenvolvimento de Sistemas. Atualmente aprendendo sobre desenvolvimento Front End e trabalhando nos meus primeiros projetos. Pretendo aprofundar meus conhecimentos nesta área e conectar diferentes tecnologias para obter as melhores soluções.💓
