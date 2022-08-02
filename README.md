@@ -3,7 +3,7 @@
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=print(Hello%20World!%20I'm%20Diane!)&center=true&width=500&height=50"></a>
 </h1>
 <h3 align="center"> 
-Graduanda em Análise e Desenvolvimento de Sistemas. Atualmente aprendendo sobre desenvolvimento Front End e trabalhando nos meus primeiros projetos. Pretendo aprofundar meus conhecimentos nesta área e conectar diferentes tecnologias para obter as melhores soluções.💓
+Graduanda em Análise e Desenvolvimento de Sistemas. Atuando em desenvolvimento web fulltasck. Apaixonada por dados e aprofundandp meus conhecimentos nesta área para conectar diferentes tecnologias e obter as melhores soluções.💓
 </h3>
 
 <br>
