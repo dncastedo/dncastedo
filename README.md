@@ -3,7 +3,7 @@
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=print(Hello%20World!%20I'm%20Diane!)&center=true&width=500&height=50"></a>
 </h1>
 <h3 align="center"> 
-Graduanda em Análise e Desenvolvimento de Sistemas e dev fullstack web. Cada dia mais apaixonada por ciência de dados e aprofundando meus conhecimentos nesta área para conectar diferentes tecnologias e obter as melhores soluções.💓
+Graduanda em Análise e Desenvolvimento de Sistemas e dev fullstack web. Entusiasta de ciência de dados e aprofundando meus conhecimentos nesta área para conectar diferentes tecnologias e obter as melhores soluções.💓
 </h3>
 
 <br>
