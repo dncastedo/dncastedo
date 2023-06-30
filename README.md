@@ -1,6 +1,6 @@
 
 <h1 align="center">
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=print(Hello%20World!%20I'm%20Diane!)&center=true&width=500&height=50"></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=print('Hello%20World!%20I'm%20Diane!')&center=true&width=500&height=50"></a>
 </h1>
 <h3 align="center"> 
 Graduanda em Ciência de Dados. Entusiasta e aprofundando meus conhecimentos nesta área  de dados para conectar diferentes tecnologias e obter as melhores soluções.💓
