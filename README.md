@@ -1,6 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B054FF&height=120&section=header"/>
 
 
+<img width=50% src="https://github.com/dncastedo/dncastedo/blob/main/images/look.gif"/>
 
 Olá 👋, </br>
 Me chamo Diane e sou uma entusiasta dos dados com grande interesse por tecnologia e inovação!
