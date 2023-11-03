@@ -1,6 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B054FF&height=120&section=header"/>
 
-<iframe src="https://giphy.com/embed/LedVYzRx24nkI" width="480" height="479" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/LedVYzRx24nkI">via GIPHY</a></p>
 
 Olá 👋, </br>
 Me chamo Diane e sou uma entusiasta dos dados com grande interesse por tecnologia e inovação!
