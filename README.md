@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B054FF&height=120&section=header"/>
 
-![Uploading look.gif…]()
+
 
 Olá 👋, </br>
 Me chamo Diane e sou uma entusiasta dos dados com grande interesse por tecnologia e inovação!
