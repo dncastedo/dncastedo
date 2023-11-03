@@ -21,8 +21,7 @@ Meu objetivo é aplicar meu conhecimento e experiência para contribuir de forma
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![R](https://img.shields.io/badge/-R-000?&logo=R)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![SQL](https://img.shields.io/badge/-PySpark-000?&logo=py-spark)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+
 
 
 ### Technologies
@@ -33,7 +32,9 @@ Meu objetivo é aplicar meu conhecimento e experiência para contribuir de forma
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![Git](https://img.shields.io/badge/-Git-000?&logo=git)
+![Github](https://img.shields.io/badge/-Github-000?&logo=github)
+![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-000?&logo=visual-studio-code)
 
 </br>
 
@@ -59,7 +60,7 @@ Meu objetivo é aplicar meu conhecimento e experiência para contribuir de forma
 </br>
 <h3 align="center"> Obrigada pela Visita!</h3>
 <p align="center">
-<img height="70" src="https://emoji.gg/assets/emoji/7889-doge-wink.gif" alt="dog">
+<img height="70" src="https://github.com/dncastedo/dncastedo/blob/main/images/dog.gif" alt="dog">
 </p>
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=dncastedo&label=Profile%20views&color=0e75b6&style=plastic" alt="dncastedo"/>
