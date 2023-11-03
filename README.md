@@ -2,7 +2,6 @@
 
 <img width=50%  align="right" src="https://media.giphy.com/media/LedVYzRx24nkI/giphy-downsized-large.gif">
 
-
 Olá 👋, </br>
 Me chamo Diane e sou uma entusiasta dos dados com grande interesse por tecnologia e inovação!
 
