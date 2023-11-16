@@ -3,16 +3,26 @@
 
 <img width=35% align="right" src="https://github.com/dncastedo/dncastedo/blob/main/images/look.gif"/>
 
-Olá 👋, </br>
+Olá Me chamo Diane👋, </br>
+ ☺️ Sou uma entusiasta dos dados com grande interesse por tecnologia e inovação!
+📔 Estou cursando Ciência de Dados pela Uninter 
+🌱 Atualmente estou aprendendo sobre machine learning
+🔭 Fiz estágio durante 6 meses em Data & Analytics na Compass UOL
+Possuo certificação AWS
+👍 Sou formada em Direito e fiz transição de carreira para a área de TI no ano de 2021
+💓 Atuei entre 2021 e 2023 como desenvolvedora web.
+   Atualmente busco uma vaga na área de Análise de Dados.
+
+😄 Meu objetivo é aplicar meu conhecimento e experiência para contribuir de forma significativa em projetos desafiadores e inovadores.
 Me chamo Diane e sou uma entusiasta dos dados com grande interesse por tecnologia e inovação!
 
-Atualmente estou cursando Ciência de Dados pela Uninter e estudando diversos conteúdos correlatos à área nas minhas horas vagas, tais como machine learning e deep learning.
+
 
 Sou formada em Direito e fiz transição de carreira para a área de TI no ano de 2021, atuando inicialmente como desenvolvedora web.
 
 Participei também recentemente do programas de bolsas da Compass Uol para Engenharia de Dados, aprimorando minhas habilidades de ETL e análise de dados, bem como tive a oportunidade de conquistar a certificação AWS Cloud Practictioner no mês de setembro de 2023. 
 
-Meu objetivo é aplicar meu conhecimento e experiência para contribuir de forma significativa em projetos desafiadores e inovadores. 💓
+ 💓
 
 </br>
 
