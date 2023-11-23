@@ -9,8 +9,6 @@ Olá, me chamo Diane👋, </br>
  
 📚 Estou cursando Ciência de Dados pela Uninter; 
 
-🤖 Atualmente estou aprendendo sobre machine learning;
-
 📊 Fiz estágio em Data & Analytics na Compass UOL;
 
 📜 Possuo certificação AWS Cloud Practictioner;
