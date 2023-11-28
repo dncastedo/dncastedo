@@ -17,7 +17,7 @@ Olá, me chamo Diane👋, </br>
 
 💻 Atuei entre 2021 e 2023 como desenvolvedora web;
 
-🔭  Atualmente busco uma vaga na área de Análise de Dados.
+🔭  Atualmente busco colocação profissional como Analista de Dados.
 
 </br>
 
