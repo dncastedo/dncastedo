@@ -9,7 +9,7 @@ Olá, me chamo Diane👋, </br>
  
 📚 Estou cursando Ciência de Dados pela Uninter; 
 
-📊 Fiz estágio em Data & Analytics na Compass UOL;
+📊 Participei do programa de bolsas AWS Cloud Data Engineering na Compass UOL;
 
 📜 Possuo certificação AWS Cloud Practictioner;
 
@@ -17,7 +17,7 @@ Olá, me chamo Diane👋, </br>
 
 💻 Atuei entre 2021 e 2023 como desenvolvedora web;
 
-🔭  Atualmente busco colocação profissional como Analista de Dados.
+🔭  Atualmente busco colocação profissional na área de Dados.
 
 </br>
 
@@ -43,8 +43,9 @@ Olá, me chamo Diane👋, </br>
 
 </br>
 
-<!-- ### Data Science Projects
- -->
+### Projects
+
+* ![ETL - Compass Uol](https://github.com/dncastedo/estagio-compass-uol-aws-de/tree/master/Desafio);
 
 
 ### Github Stats
