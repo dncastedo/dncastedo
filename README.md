@@ -45,7 +45,7 @@ Olá, me chamo Diane👋, </br>
 
 ### Projects
 
-* ![ETL - Compass Uol](https://github.com/dncastedo/estagio-compass-uol-aws-de/tree/master/Desafio);
+* [ETL - Compass Uol](https://github.com/dncastedo/estagio-compass-uol-aws-de/tree/master/Desafio);
 
 
 ### Github Stats
