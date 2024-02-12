@@ -15,7 +15,7 @@ Olá, me chamo Diane👋, </br>
 
 ⚖️ Sou formada em Direito e fiz transição de carreira para a área de TI no ano de 2021;
 
-💻 Atuei entre 2021 e 2023 como desenvolvedora web;
+💻 Atuei entre 2021 e 2023 como desenvolvedora fullstack web;
 
 🔭  Atualmente busco colocação profissional na área de Dados.
 
