@@ -7,7 +7,7 @@ Olá, me chamo Diane👋, </br>
 
  ☺️ Sou uma entusiasta dos dados com grande interesse por tecnologia e inovação!
  
-📚 Estou cursando Ciência de Dados pela Uninter; 
+📚 Estou cursando Ciência da Computação pela Estácio; 
 
 📊 Participei do programa de bolsas AWS Cloud Data Engineering na Compass UOL;
 
