@@ -21,7 +21,7 @@ Olá, me chamo Diane👋, </br>
 
 </br>
 
-### Languages
+### Linguagens
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![R](https://img.shields.io/badge/-R-000?&logo=R)
@@ -29,7 +29,7 @@ Olá, me chamo Diane👋, </br>
 
 
 
-### Technologies
+### Ferramentas
 
 ![Power BI](https://img.shields.io/badge/-Microsoft%20Power%20BI-000?&logo=power-bi&logoColor=F90)
 ![Jupyter](https://img.shields.io/badge/-Jupyter%20Notebook-000?&logo=Jupyter&logoColor=F90)
@@ -43,9 +43,9 @@ Olá, me chamo Diane👋, </br>
 
 </br>
 
-### Projects
 
-* [ETL - Compass Uol](https://github.com/dncastedo/estagio-compass-uol-aws-de/tree/master/Desafio)
+
+
 
 
 ### Github Stats
