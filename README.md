@@ -15,9 +15,9 @@ Olá, me chamo Diane👋, </br>
 
 ⚖️ Sou formada em Direito e fiz transição de carreira para a área de TI no ano de 2021;
 
-💻 Atuei entre 2021 e 2023 como desenvolvedora fullstack web;
+💻 Atuei entre 2021 e 2023 como desenvolvedora fullstack web e atualmente como engenheira de dados treinee na Compass Uol;
 
-🔭  Atualmente busco colocação profissional na área de Dados.
+<!--🔭  Atualmente busco colocação profissional na área de Dados. -->
 
 </br>
 
@@ -72,6 +72,6 @@ Olá, me chamo Diane👋, </br>
 <img src="https://komarev.com/ghpvc/?username=dncastedo&label=Profile%20views&color=0e75b6&style=plastic" alt="dncastedo"/>
 </p>  
 <p>Credit: <a href="https://github.com/dncastedo">dncastedo</a></p>
-Last Edited On: 11/03/2024
+Last Edited On: 09/10/2024
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B054FF&height=120&section=footer"/>
