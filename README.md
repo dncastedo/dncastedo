@@ -15,9 +15,11 @@ Olá, me chamo Diane👋, </br>
 
 ⚖️ Sou formada em Direito e fiz transição de carreira para a área de TI no ano de 2021;
 
-💻 Atuei entre 2021 e 2023 como desenvolvedora fullstack web e atualmente como engenheira de dados treinee na Compass Uol;
+💻 Atuei entre 2021 e 2023 como desenvolvedora fullstack web e durante o ano de 2024 como Analista de Dados na empresa Compass Uol;
 
-<!--🔭  Atualmente busco colocação profissional na área de Dados. -->
+🔭 Atualmente busco uma posição como engenheira de dados;
+
+<!--  Atualmente busco colocação profissional na área de Dados. -->
 
 </br>
 
