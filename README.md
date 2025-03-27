@@ -1,7 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B054FF&height=120&section=header"/>
 
-
-<!-- <img width=35% align="right" src="https://github.com/dncastedo/dncastedo/blob/main/images/look.gif"/> -->
 
 Olá, me chamo Diane👋, </br>
 
@@ -76,4 +73,3 @@ Olá, me chamo Diane👋, </br>
 <p>Credit: <a href="https://github.com/dncastedo">dncastedo</a></p>
 Last Edited On: 09/10/2024
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B054FF&height=120&section=footer"/>
