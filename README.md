@@ -20,7 +20,11 @@ Olá, me chamo Diane👋, </br>
 
 </br>
 
-### Linguagens
+### Ferramentas
+
+
+![AWS](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg)
+          
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
