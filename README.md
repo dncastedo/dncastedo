@@ -22,27 +22,10 @@ Olá, me chamo Diane👋, </br>
 
 ### Ferramentas
 
-
-![AWS](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg)
-          
-
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-
-<!-- ![R](https://img.shields.io/badge/-R-000?&logo=R)-->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="300">
 
 
 
-### Ferramentas
-
-![Jupyter](https://img.shields.io/badge/-Jupyter%20Notebook-000?&logo=Jupyter&logoColor=F90)
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![Git](https://img.shields.io/badge/-Git-000?&logo=git)
-![Github](https://img.shields.io/badge/-Github-000?&logo=github)
-![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-000?&logo=visual-studio-code)
-![Power BI](https://img.shields.io/badge/-Microsoft%20Power%20BI-000?&logo=power-bi&logoColor=F90)
 
 </br>
 
