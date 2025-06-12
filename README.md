@@ -8,22 +8,7 @@ Atualmente foco meus estudos e projetos em desenvolvimento web, automações com
 
 ## 🛠️ SKILLS
 
-**Linguagens e Tecnologias:**
-
-- Python
-- SQL
-- SPARK
-- Git & GitHub
-
-**Ferramentas e Plataformas:**
-
-- Airflow
-- Docker
-- DBT
-- Snowflake
-- AWS
-- Power BI
-- Looker
+Python  |  SQL  |  SPARK  |  Git & GitHub  | Big Query  |  Airflow  |  Docker  |  DBT  |  Snowflake  |  AWS  |  Power BI  |  Looker  
 
 ---
 
