@@ -1,61 +1,76 @@
+## 👩‍💻 SOBRE MIM
+
+Olá! Sou uma desenvolvedora apaixonada por tecnologia e aprendizado contínuo. Estou em constante evolução, sempre buscando novos desafios para aplicar meus conhecimentos e aprimorar minhas habilidades em programação e desenvolvimento de soluções criativas.
+
+Atualmente foco meus estudos e projetos em desenvolvimento web, automações com Python e tecnologias modernas que contribuem para soluções práticas e eficientes.
+
+---
+
+## 🛠️ SKILLS
+
+**Linguagens e Tecnologias:**
+
+- Python
+- SQL
+- SPARK
+- Git & GitHub
+
+**Ferramentas e Plataformas:**
+
+- Airflow
+- Docker
+- DBT
+- Snowflake
+- AWS
+- Power BI
+- Looker
+
+---
+
+## 🚀 PROJETOS
 
 
-Olá, me chamo Diane👋, </br>
+### 🔹 [Análise de Dados - Análise de dados do dataset Superstore](https://github.com/dncastedo/projeto-analise-dados-superstore)
 
- ☺️ Sou uma entusiasta dos dados com grande interesse por tecnologia e inovação!
- 
-📚 Estou cursando Ciência da Computação pela Estácio; 
+O objetivo é usar técnicas de Análise Exploratória de Dados (EDA) e estatística descritiva com Python para identificar oportunidades e desafios na Superstore, oferecendo um panorama claro para otimizar operações e estratégias de vendas.
 
-📊 Participei do programa de bolsas AWS Cloud Data Engineering na Compass UOL;
+### 🔹 [Engenharia de Dados - Data Lake AWS: Filmes de Terror do TMB](https://github.com/dncastedo/estagio-compass-uol-aws-de/tree/master/Desafio)
 
-📜 Possuo certificação AWS Cloud Practictioner;
+Ferramenta que gera apresentações em PowerPoint com base em templates e dados estruturados, utilizando a biblioteca `python-pptx`.
 
-⚖️ Sou formada em Direito e fiz transição de carreira para a área de TI no ano de 2021;
+<!-- ### 🔹 [Painel Interativo com Dash](https://github.com/seuusuario/nome-do-repositorio)
 
-💻 Atuei entre 2021 e 2023 como desenvolvedora fullstack web e durante o ano de 2024 como Analista de Dados na empresa Compass Uol;
+Dashboard de visualização de dados com filtros interativos, gráficos e layout responsivo. -->
 
-🔭 Atualmente busco uma posição como engenheira de dados;
+> _Veja todos os projetos públicos na aba "Repositórios"._
 
-<!--  Atualmente busco colocação profissional na área de Dados. -->
+---
 
-</br>
+## 📚 ESTUDOS
 
+Atualmente estudando:
 
-<div>
-<h2>Ferramentas</h2>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="50"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" width="50"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg"  width="50"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     
-</div>
-        
-
-</br>
-<h2>Github Stats</h2>
-
-<div align="center">
+### 🔹 [Snowflake](https://github.com/dncastedo/estudos-snowflake)
+<!--### 🔹 [Modelagem de Dados](https://github.com/seuusuario/nome-do-repositorio)
+### 🔹 [Arquitetura de Dados](https://github.com/seuusuario/nome-do-repositorio)
+### 🔹 [Estatística](https://github.com/seuusuario/nome-do-repositorio)
+### 🔹 [Docker](https://github.com/seuusuario/nome-do-repositorio)
+### 🔹 [Snowflake](https://github.com/seuusuario/nome-do-repositorio)
+### 🔹 [Spark](https://github.com/seuusuario/nome-do-repositorio) -->
 
 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=dncastedo&show_icons=true&count_private=true&hide_border=true&title_color=B054FF&icon_color=B054FF&text_color=c9d1d9&bg_color=0d1117" alt="Diane do Nascimento Castedo github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dncastedo&layout=compact&hide_border=true&title_color=B054FF&text_color=B054FF&bg_color=0d1117" />
-</div>
+Certificações e cursos concluídos:
 
-</br>
+- Engenheiro de Dados Jr. – [PoD Academy]
+- AWS Cloud Pratictioner 2023 – [AWS]
 
- <div align="center"> 
-<a href="https://www.linkedin.com/in/dncastedo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
-<a href = "mailto:dncastedo@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" target="_blank"></a>
+---
 
- </div>
+## 📬 CONTATO
 
-</br>
-<h3 align="center"> Obrigada pela Visita!</h3>
-<p align="center">
-<img height="70" src="https://github.com/dncastedo/dncastedo/blob/main/images/dog.gif" alt="dog">
-</p>
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=dncastedo&label=Profile%20views&color=0e75b6&style=plastic" alt="dncastedo"/>
-</p>  
-<p>Credit: <a href="https://github.com/dncastedo">dncastedo</a></p>
-Last Edited On: 28/03/2025
+- ✉️ **Email:** dncastedo@gmail.com
+- 💼 **LinkedIn:** [linkedin.com/in/dncastedo](https://linkedin.com/in/dncastedo)
+---
+
+_Obrigada por visitar meu portfólio! 💙 Fique à vontade para explorar os repositórios, sugerir melhorias ou entrar em contato!_
 
