@@ -21,7 +21,7 @@ O objetivo é usar técnicas de Análise Exploratória de Dados (EDA) e estatís
 
 ### 🔹 [Engenharia de Dados - Data Lake AWS: Filmes de Terror do TMB](https://github.com/dncastedo/estagio-compass-uol-aws-de/tree/master/Desafio)
 
-Ferramenta que gera apresentações em PowerPoint com base em templates e dados estruturados, utilizando a biblioteca `python-pptx`.
+Criação de um Data Lake na AWS para consumir os dados sobre filmes de terror do do TMB e exibir insights no Quicksight.
 
 <!-- ### 🔹 [Painel Interativo com Dash](https://github.com/seuusuario/nome-do-repositorio)
 
