@@ -33,6 +33,8 @@ Dashboard de visualização de dados com filtros interativos, gráficos e layout
 
 ## 📚 ESTUDOS
 
+Resumos e Anotações: 
+
 ### 🔹 [Snowflake](https://github.com/dncastedo/estudos-snowflake)
 <!--### 🔹 [Modelagem de Dados](https://github.com/seuusuario/nome-do-repositorio)
 ### 🔹 [Arquitetura de Dados](https://github.com/seuusuario/nome-do-repositorio)
