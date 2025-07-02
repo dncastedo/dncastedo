@@ -33,8 +33,6 @@ Dashboard de visualização de dados com filtros interativos, gráficos e layout
 
 ## 📚 ESTUDOS
 
-Atualmente estudando:
-
 ### 🔹 [Snowflake](https://github.com/dncastedo/estudos-snowflake)
 <!--### 🔹 [Modelagem de Dados](https://github.com/seuusuario/nome-do-repositorio)
 ### 🔹 [Arquitetura de Dados](https://github.com/seuusuario/nome-do-repositorio)
@@ -44,7 +42,7 @@ Atualmente estudando:
 ### 🔹 [Spark](https://github.com/seuusuario/nome-do-repositorio) -->
 
 
-Certificações e cursos concluídos:
+Certificações e cursos:
 
 - Engenheiro de Dados Jr. – [PoD Academy]
 - AWS Cloud Pratictioner 2023 – [AWS]
