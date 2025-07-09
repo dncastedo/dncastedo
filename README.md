@@ -1,14 +1,14 @@
 ## 👩‍💻 SOBRE MIM
 
-Olá! Sou uma engenheira de dados apaixonada por tecnologia e aprendizado contínuo. Estou em constante evolução, sempre buscando novos desafios para aplicar meus conhecimentos e aprimorar minhas habilidades em programação e desenvolvimento de soluções criativas.
+Olá! Sou analista de dados com foco tecnologia e aprendizado contínuo. Estou em constante evolução, sempre buscando novos desafios para aplicar meus conhecimentos e aprimorar minhas habilidades em programação e desenvolvimento de soluções criativas.
 
-Atualmente foco meus estudos e projetos em desenvolvimento web, automações com Python e tecnologias modernas que contribuem para soluções práticas e eficientes.
+<!--Atualmente foco meus estudos e projetos em desenvolvimento web, automações com Python e tecnologias modernas que contribuem para soluções práticas e eficientes. -->
 
 ---
 
 ## 🛠️ SKILLS
 
-Python  |  SQL  |  SPARK  |  Git & GitHub  | Big Query  |  Airflow  |  Docker  |  Snowflake  |  AWS  |  Power BI  |  Looker  
+Python  |  SQL  |  Excel | Git & GitHub  | Big Query  |  AWS  |  Power BI  |  Looker  
 
 ---
 
