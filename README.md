@@ -45,11 +45,10 @@ Resumos e Anotações:
 ### 🔹 [Spark](https://github.com/seuusuario/nome-do-repositorio) -->
 
 
-Certificações e cursos:
+Certificações:
 
-- Engenheiro de Dados Jr. – [PoD Academy]
-- AWS Cloud Pratictioner 2023 – [AWS]
-- Apache Airflow 3 - 2025 [Astronomy Academy]
+- AWS Cloud Pratictioner 2023 – [AWS](https://www.credly.com/badges/10655fc2-3ad9-4d81-91f0-3ea25426e29b/linked_in_profile)
+- Apache Airflow 3 - 2025 [Astronomy Academy](https://www.credly.com/earner/earned/badge/23ef6d50-ff05-43ba-85a7-1b9c68ecd19a)
 
 ---
 
