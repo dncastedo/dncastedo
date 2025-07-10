@@ -49,6 +49,7 @@ Certificações e cursos:
 
 - Engenheiro de Dados Jr. – [PoD Academy]
 - AWS Cloud Pratictioner 2023 – [AWS]
+- Apache Airflow 3 - 2025 [Astronomy Academy]
 
 ---
 
