@@ -35,8 +35,8 @@ Dashboard de visualização de dados com filtros interativos, gráficos e layout
 
 Resumos e Anotações: 
 
-### 🔹 [Snowflake](https://github.com/dncastedo/estudos-snowflake)
-### 🔹 [Airflow](https://github.com/dncastedo/estudos-airflow)
+🔹 [Snowflake](https://github.com/dncastedo/estudos-snowflake)
+🔹 [Airflow](https://github.com/dncastedo/estudos-airflow)
 <!--### 🔹 [Modelagem de Dados](https://github.com/seuusuario/nome-do-repositorio)
 ### 🔹 [Arquitetura de Dados](https://github.com/seuusuario/nome-do-repositorio)
 ### 🔹 [Estatística](https://github.com/seuusuario/nome-do-repositorio)
@@ -46,9 +46,8 @@ Resumos e Anotações:
 
 
 Certificações:
-
-- [AWS Cloud Pratictioner - 2023(https://www.credly.com/badges/10655fc2-3ad9-4d81-91f0-3ea25426e29b/linked_in_profile)]
-- [Apache Airflow 3 - 2025 (https://www.credly.com/earner/earned/badge/23ef6d50-ff05-43ba-85a7-1b9c68ecd19a)]
+- [AWS Cloud Pratictioner - 2023](https://www.credly.com/badges/10655fc2-3ad9-4d81-91f0-3ea25426e29b/linked_in_profile)
+- [Apache Airflow 3 - 2025](https://www.credly.com/earner/earned/badge/23ef6d50-ff05-43ba-85a7-1b9c68ecd19a)
 
 ---
 
