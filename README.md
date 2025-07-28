@@ -8,7 +8,7 @@ Olá! Sou analista de dados com foco tecnologia e aprendizado contínuo. Estou e
 
 ## 🛠️ SKILLS
 
-Python  |  SQL  |  Excel | Git & GitHub  | Big Query  |  AWS  |  Power BI  |  Looker  
+Python  |  SQL  | Power BI | Excel | Git & GitHub  | Big Query  |  AWS  |  Power BI  |  Looker  
 
 ---
 
@@ -55,6 +55,7 @@ Certificações:
 
 - ✉️ **Email:** dncastedo@gmail.com
 - 💼 **LinkedIn:** [linkedin.com/in/dncastedo](https://linkedin.com/in/dncastedo)
+- 📊 **Portfolio:** [Portfolio - Diane](https://portfolio-diane-castedo.vercel.app/)
 ---
 
 _Obrigada por visitar meu portfólio! 💙 Fique à vontade para explorar os repositórios, sugerir melhorias ou entrar em contato!_
